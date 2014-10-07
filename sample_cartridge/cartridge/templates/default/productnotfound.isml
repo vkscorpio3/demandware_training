@@ -1,0 +1,6 @@
+<html>
+  <head>
+    <title>Product not found</title>
+  </head>
+  <body>The product ID ${pdict.CurrentHttpParameterMap.product.stringValue} does not exist</body>
+</html>

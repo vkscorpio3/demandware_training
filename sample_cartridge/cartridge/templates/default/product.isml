@@ -1,0 +1,9 @@
+<!--- TEMPLATENAME: test.isml --->
+<html>
+  <head>
+    <title>Product</title>
+  </head>
+  <body>
+	  <h1>The product name is ${pdict.Product.name}</h1>
+  </body>
+</html>
