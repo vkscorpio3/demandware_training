@@ -2,5 +2,5 @@
   <head>
     <title>Product not found</title>
   </head>
-  <body>The product ID ${pdict.CurrentHttpParameterMap.product.stringValue} does not exist</body>
+  <body>The product ID ${pdict.CurrentHttpParameterMap.productId.stringValue} does not exist</body>
 </html>

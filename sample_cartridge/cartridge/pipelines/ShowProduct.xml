@@ -12,7 +12,7 @@
       <node>
         <pipelet-node pipelet-name="GetProduct" pipelet-set-identifier="bc_api">
           <key-binding alias="Product" key="Product"/>
-          <key-binding alias="CurrentHttpParameterMap.product.stringValue" key="ProductID"/>
+          <key-binding alias="CurrentHttpParameterMap.productId.stringValue" key="ProductID"/>
         </pipelet-node>
         <node-display x="0" y="1"/>
         <branch basename="b2" source-connector="error">
