@@ -1,0 +1,9 @@
+<!--- TEMPLATENAME: test.isml --->
+<html>
+  <head>
+    <title>Hello</title>
+  </head>
+  <body>
+    Hello Demandware!
+  </body>
+</html>
